@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var express = require('express')
+// var express = require('express')
 ,	path = require('path')
 ,	streams = require('./app/streams.js')();
 
